@@ -1,5 +1,7 @@
 # Face Search
 Fast face search using vector db.<br>
+## Detailed article
+[Fast Face Search (Billion-scale Face Recognition) using Facebook AI Similarity Search (Faiss)](https://ranjankumar.in/fast-face-search-billion-scale-face-recognition-using-facebook-ai-similarity-search-faiss/)
 ## Libs
 1. `pip install face-recognition`
 2. `pip install faiss`
